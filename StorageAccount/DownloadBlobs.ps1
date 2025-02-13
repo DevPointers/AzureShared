@@ -1,8 +1,8 @@
 ### *** This script is to download blobs from an Azure storage account. *** ###
 
-$subscriptionId = "cf434qdvqdhqdqdh"
-$storageAccountName = "devordersa"
-$storageAccountKey = "q5nuu84RYsqhwdvhqwdh"
+$subscriptionId = "cf4qwdbhqbdvqdhqdqdh"
+$storageAccountName = "devsa"
+$storageAccountKey = "qdqdjq;mm84RYsqhwdvhqwdh"
 $containerName = "orders"
 $downloadLocation = "/users/shared/"
 
